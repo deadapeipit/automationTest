@@ -1,7 +1,7 @@
 # config/config.yaml
-url: "https://detik.com"
+url: "https://youtube.com"
 username: "testuser"
 password: "password123"
-timeout: 10  # seconds for waiting
+timeout: 30  # seconds for waiting
 headless: true
 logfile: "test_log.log"

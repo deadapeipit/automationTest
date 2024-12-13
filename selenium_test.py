@@ -1,6 +1,3 @@
-import yaml
-import pytest
-from utils.browser_utils import init_browser
 from page_objects.homepage import HomePage
 from helpers.helpers import load_config
 

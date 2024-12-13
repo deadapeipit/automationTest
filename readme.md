@@ -1,10 +1,10 @@
-Requirement : 
+Requirement python (pip install): 
 selenium
 pytest
 pyyaml
 webdriver-manager
 
 How to :
-run all test: pytest tests/
-specific test files: pytest tests/test_website.py -v
+run all test: python -m pytest tests/
+specific test files: python -m pytest tests/test_website.py -v
 
